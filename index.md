@@ -2,7 +2,7 @@
 
 First I want to introduce my self;
 
-You will find detail about me: https://github.com/atesibrahim/About-me/blob/master/IbrahimAtes_Resume.pdf
+You will find detail about me: [My Resume](https://github.com/atesibrahim/About-me/blob/master/IbrahimAtes_Resume.pdf)
 
 ### Markdown
 
