@@ -2,22 +2,20 @@
 
 First I want to introduce my self;
 
-You will find detail about me: [My Resume](https://github.com/atesibrahim/About-me/blob/master/IbrahimAtes_Resume.pdf)
+You will find detail about me here > [My Resume](https://github.com/atesibrahim/About-me/blob/master/IbrahimAtes_Resume.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+`code part` 
 Syntax highlighted code block
 
-# About Java Works
-## Java8
-# About Javascript Works
-# About Cloud Works
-## Microservices
-## Docker
-## Openshift
+### About Java Works
+### Java8
+### About Javascript Works
+### About Cloud Works
+### Microservices
+### Docker
+### Openshift
 
 - Bulleted
 - List
